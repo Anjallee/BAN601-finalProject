@@ -105,11 +105,8 @@ NOTE: Histogram distribution can be obtained for any column selected via the dro
 
 
 | Metric | Count | Mean | Std | Min | 25% | 50% | 75% | Max |
-
 |---|---|---|---|---|---|---|---|---|
-
 | Value | 506 | 69.75 | 26.75 | 2.9 | 48.63 | 77.7 | 92.9 | 100 |
-
 
 
 Key Business Insights (from Age Distribution Histogram):
