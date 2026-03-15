@@ -54,6 +54,10 @@ It lets you explore distributions, correlations, outliers, and run a one-click C
 
 ## Raw Data Insights:
 
+In the current folder we have two data files namely:
+  - boston_housing.csv
+  - iris.csv
+To give a walkthrough of the entire functionality, we choose boston_housing.csv data file.
 For boston_housing.csv data file the Dataset Statistical Overview and the First 5 row raw data are as shown below.
 
 ![image](/images/dataset_overview.png)
