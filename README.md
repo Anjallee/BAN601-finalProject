@@ -18,25 +18,25 @@ It lets you explore distributions, correlations, outliers, and run a one-click C
 
   - Categorical standardization (trim/whitespace collapse/lowercase)
 
-- Date parsing (acceptance threshold > 60%)
+  - Date parsing (acceptance threshold > 60%)
 
-- Numeric parsing (acceptance threshold > 70%)
+  - Numeric parsing (acceptance threshold > 70%)
 
-- Outlier flagging (3×IQR) – report only
+  - Outlier flagging (3×IQR) – report only
 
-- Numeric median imputation
+  - Numeric median imputation
 
-- Categorical imputation strategy (selectable):
+  - Categorical imputation strategy (selectable):
 
-- None (leave as NA)
+    - None (leave as NA)
 
-- Constant: 'Unknown'
+    - Constant: 'Unknown'
 
-- Mode per column
+    - Mode per column
 
-- Group‑aware (mode within a grouping, then `'Unknown'` fallback)
+    - Group‑aware (mode within a grouping, then `'Unknown'` fallback)
 
-- Duplicate removal (full-row, keep = 'first')
+  - Duplicate removal (full-row, keep = 'first')
 
 - Save cleaned data as “clean_<original>.csv” in the same folder
 
