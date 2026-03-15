@@ -60,7 +60,7 @@ For boston_housing.csv data file the Dataset Statistical Overview and the First 
 
 The Data Quality Analysis on the above data shows the details in terms of Unique Values, Missing Values and Missing %. Given in table below:
 
-![image](image_2.png)
+![image](/images/data_quality_table.png)
 
 The following Data Cleaning operations were peformed on the raw data:
 
@@ -98,7 +98,7 @@ EDA on Cleaned Data:
 
 
 
-![image](image_4.png)
+![image](/images/age_histogram.png)
 
 NOTE: Histogram distribution can be obtained for any column selected via the drop down (eg.. lstat, medv, tax, rad etc.)
 
@@ -132,7 +132,7 @@ Only a small portion of neighborhoods have newer housing, suggesting limited rec
 
 
 
-![image](image_5.png)
+![image](/images/correlation_matrix.png)
 
 NOTE: Strongest correlation between: rad and tax
 
