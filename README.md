@@ -118,17 +118,17 @@ NOTE: Histogram distribution can be obtained for any column selected via the dro
 
 Key Business Insights (from Age Distribution Histogram):
 
-Most neighborhoods show high values of age (75–100), meaning a large proportion of houses were built before 1940.
+- Most neighborhoods show high values of age (75–100), meaning a large proportion of houses were built before 1940.
 
-This indicates a housing market dominated by older properties.
+- This indicates a housing market dominated by older properties.
 
-Older homes create strong demand for renovation, maintenance, and modernization services.
+- Older homes create strong demand for renovation, maintenance, and modernization services.
 
-Real estate developers may find redevelopment opportunities in these areas.
+- Real estate developers may find redevelopment opportunities in these areas.
 
-Insurance and maintenance costs may be higher due to aging infrastructure.
+- Insurance and maintenance costs may be higher due to aging infrastructure.
 
-Only a small portion of neighborhoods have newer housing, suggesting limited recent development.
+- Only a small portion of neighborhoods have newer housing, suggesting limited recent development.
 
 
 
@@ -142,17 +142,17 @@ NOTE: Strongest correlation between: rad and tax
 
 Key Business Insights (from the correlation matrix):
 
-Number of rooms (rm) has the strongest positive correlation with house price (medv), meaning larger homes tend to be more valuable.  NOTE: medv = Median House Value.
+- Number of rooms (rm) has the strongest positive correlation with house price (medv), meaning larger homes tend to be more valuable.  NOTE: medv = Median House Value.
 
-Lower-status population percentage (lstat) has a strong negative relationship with prices, indicating neighborhoods with better socioeconomic conditions command higher property values.
+- Lower-status population percentage (lstat) has a strong negative relationship with prices, indicating neighborhoods with better socioeconomic conditions command higher property values.
 
-Education quality (ptratio) negatively correlates with prices, suggesting homes in areas with better schools (lower pupil–teacher ratios) are more desirable.
+- Education quality (ptratio) negatively correlates with prices, suggesting homes in areas with better schools (lower pupil–teacher ratios) are more desirable.
 
-Higher property taxes (tax) and pollution levels (nox) are associated with lower housing prices.
+- Higher property taxes (tax) and pollution levels (nox) are associated with lower housing prices.
 
-Environmental and neighborhood quality factors significantly influence real estate valuation alongside property size.
+- Environmental and neighborhood quality factors significantly influence real estate valuation alongside property size.
 
-Overall, location quality, education infrastructure, and property size are the key drivers of housing prices in this dataset.
+- Overall, location quality, education infrastructure, and property size are the key drivers of housing prices in this dataset.
 
 
 
