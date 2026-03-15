@@ -88,7 +88,7 @@ The Data Quality Analysis shows the data has been successfully cleaned as can be
 
 We can clearly see across all columns, the Unique Values, Missing Values and Missing %, are zero.
 
-![image](image_3.png)
+![image](/images/clean_column_summary.png)
 
 EDA on Cleaned Data:
 
