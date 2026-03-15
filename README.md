@@ -56,7 +56,7 @@ It lets you explore distributions, correlations, outliers, and run a one-click C
 
 For boston_housing.csv data file the Dataset Statistical Overview and the First 5 row raw data are as shown below.
 
-![image](image_1.png)
+![image](/images/data_overview.png)
 
 The Data Quality Analysis on the above data shows the details in terms of Unique Values, Missing Values and Missing %. Given in table below:
 
