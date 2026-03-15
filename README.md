@@ -16,7 +16,7 @@ It lets you explore distributions, correlations, outliers, and run a one-click C
 
 - Clean Pipeline (All‑in‑One): Operations performed in sequence below
 
--- Categorical standardization (trim/whitespace collapse/lowercase)
+  - Categorical standardization (trim/whitespace collapse/lowercase)
 
 - Date parsing (acceptance threshold > 60%)
 
